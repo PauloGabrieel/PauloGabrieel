@@ -1,4 +1,6 @@
-### Hi there 👋
+# Olá, Eu Sou o Paulo Gabriel 👋
+
+Sou desenvolvedor Web Full-stack 
 
 
 ## Tecnologias:
