@@ -41,15 +41,10 @@ Sou desenvolvedor Web Full-stack
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<div align="center">
-  <a href="https://github.com/PauloGabrieel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloGabrieel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGabrieel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  
 <h3 align="left"></h3>
 
-  <a href="https://github.com/FlaviaBulad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlaviaBulad&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaBulad&layout=compact&langs_count=7&theme=synthwave"/>
+  <a href="https://github.com/PauloGabrieel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloGabrieel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGabrieel&layout=compact&langs_count=7&theme=dracula"/>
 
