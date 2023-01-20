@@ -1,50 +1,64 @@
-# Olá, Eu Sou o Paulo Gabriel 👋
+<h1 align="center">Hi 👋, I'm Flávia Bulad 🌸</h1>
 
-Sou desenvolvedor Web Full-stack 
+<li align="left"> 👩‍💻 I'm a Fullstack Web Developer </li>
+<li align="left">🌱 I'm Currently learning <b>Java </b> and <b> Angular.</b> </li>
+<li align="left"> 👀 I'm looking for an opportunity to work as a developer. </li>
 
+<h2 align="left">📫 Connect with me:</h2>
+<p align="left">
+ <a href="https://www.linkedin.com/in/flaviabulad/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+ <a href="mailto:flavia.bulad@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
 
-## Tecnologias:
-#### Front-end
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<h2 align="left">🧰 Languages and Tools:</h2>
 
-#### Back-end
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TS-Node](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-#### Banco de dados
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](	https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-#### Testes
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-#### DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### Ferramentas
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
+  <h5 align="left"> - Front-End</h5>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
+   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled" /></a>
+   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material" /> </a>
  
+  <h5 align="left"> - Back-End</h5>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Express-010101?style=for-the-badge&logo=express&logoColor=white" alt="express" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /></a> 
+
+  <h4 align="left">- Databases</h4>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" /></a>
+   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" /></a>
+
+<h4 align="left">-DevOps</h4>
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=whit" alt="heroku" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-NGINX-099639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /></a>
+  
+<h4 align="left">- Tests</h4>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Cypress-04c38eCOPY?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" /></a>
+
+  <h4 align="left">- Other tools</h4>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" /></a>
+  <p></p>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-WAKATIME-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="wakatime" /></a>
+  
+
 <h3 align="left"></h3>
 
   <a href="https://github.com/PauloGabrieel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloGabrieel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGabrieel&layout=compact&langs_count=7&theme=dracula"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloGabrieel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGabrieel&layout=compact&langs_count=7&theme=synthwave"/>
