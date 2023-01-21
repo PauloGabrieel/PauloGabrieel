@@ -50,6 +50,7 @@
 
 <h3 align="left"></h3>
 
+
   <a href="https://github.com/PauloGabrieel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloGabrieel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="http://github-readme-stats-sigma-five.vercel.app//api?username=PauloGabrieel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGabrieel&layout=compact&langs_count=7&theme=synthwave"/>
