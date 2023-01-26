@@ -1,9 +1,9 @@
 <h1 align="center">Olá👋, Eu sou Paulo Gabriel</h1>
-
-<p>Sou tutor de um gatinho chamado chico 🐱, ou ele é meu tutor, não sei. </p>
-<p>AMO Praia e dias de sol 🌊🏖️ </p>
-<p>Graduando em analise e desenvolvimento de sistemas 👨 🏽‍🎓 </p>
-
+<ul>
+  <li> 🐱 Sou tutor de um gatinho chamado chico, ou ele é meu tutor, não sei. </li>
+  <li> 🌊🏖️ AMO Praia e dias de sol.</li>
+  <li> 👨🎓 Graduando em análise e desenvolvimento de sistemas. </li>  
+</ul>
 <h2 align="left">📫 Connect with me:</h2>
 <p align="left">
  <a href="https://www.linkedin.com/in/paulogabrieldev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
