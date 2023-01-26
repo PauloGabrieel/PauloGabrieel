@@ -1,6 +1,8 @@
 <h1 align="center">Olá👋, Eu sou Paulo Gabriel</h1>
 
-
+<p>Sou tutor de um gatinho chamado chico 🐱, ou ele é meu tutor, não sei. </p>
+<p>AMO Praia e dias de sol 🌊🏖️ </p>
+<p>Graduando em analise e desenvolvimento de sistemas 👨 🏽‍🎓 </p>
 
 <h2 align="left">📫 Connect with me:</h2>
 <p align="left">
