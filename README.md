@@ -4,13 +4,13 @@
   <li> 🌊🏖️ AMO Praia e dias de sol.</li>
   <li> 👨🎓 Graduando em análise e desenvolvimento de sistemas. </li>  
 </ul>
-<h2 align="left">📫 Connect with me:</h2>
+<h2 align="left">📫 Contatos:</h2>
 <p align="left">
  <a href="https://www.linkedin.com/in/paulogabrieldev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
  <a href="mailto:gabrieeel.c@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
-<h2 align="left">🧰 Languages and Tools:</h2>
+<h2 align="left">🧰 Linguagens e ferramentas:</h2>
 
   <h5 align="left"> - Front-End</h5>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /></a>
@@ -39,7 +39,7 @@
 <h4 align="left">- Tests</h4>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" /></a>
 
-  <h4 align="left">- Other tools</h4>
+  <h4 align="left">- Outras ferramentas </h4>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" /></a>
