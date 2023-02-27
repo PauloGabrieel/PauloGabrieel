@@ -49,6 +49,8 @@
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-WAKATIME-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="wakatime" /></a>
   
+<h4 align="left">- Outras linguagens que tenho interesse</h4>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/></a>
 
 <h3 align="left"></h3>
 
