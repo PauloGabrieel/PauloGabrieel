@@ -27,6 +27,8 @@
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /></a> 
    
 
 <h4 align="left">-DevOps</h4>
